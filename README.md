@@ -878,10 +878,13 @@ The Wayfarer turns to walk away... then stops. He looks back over his shoulder, 
 
 ---
 
-© 2026 Tyler Choice. All rights reserved.  
-This work is provided for personal, non-commercial use only. You may not reproduce, redistribute, modify, or republish any portion of this document without the express written permission of the original creator. Commercial use, resale, or incorporation of this work into any product, service, or training dataset by any individual, organization, or company is strictly prohibited. Unauthorized use is subject to applicable copyright law.
+© 2026 Tyler Choice. All rights reserved.
 
-**GitHub Forking Exception:** Forking this repository on GitHub.com for personal, non-commercial use is permitted, provided that all original copyright notices, disclaimers, and author attributions remain intact and unaltered.
+This work is provided for personal, non-commercial use only. You may not reproduce, redistribute, modify, or republish any portion of it without express written permission. Commercial use, resale, and incorporation into any product, service, or AI training dataset are prohibited.
 
-For permissions or licensing inquiries, contact Tyler Choice at tylerchoice.substack.com.
+**GitHub Exception:** Forking or cloning this repository on GitHub.com for personal, non-commercial use is permitted, provided all copyright notices and author attributions remain intact.
+
+The work is provided "as is", without warranty of any kind.
+
+For permissions or licensing inquiries, contact Tyler Choice at tyler@tylerchoice.com.
 
